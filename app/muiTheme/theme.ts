@@ -25,7 +25,7 @@ export const gardaTheme = createTheme({
   palette: {
     mode: "light",
     primary: {
-      main: "#D52B1E",
+      main: "#e53935",
       light: "#f2bdb9",
     },
     secondary: {
@@ -63,7 +63,7 @@ export const gardaTheme = createTheme({
     MuiListItemIcon: {
       styleOverrides: {
         root: {
-          color: "#D52B1E",
+          color: "#e53935",
         },
       },
     },
@@ -72,7 +72,7 @@ export const gardaTheme = createTheme({
         root: {
           ":hover , :focus": {
             borderRadius: 5,
-            backgroundColor: "#D52B1E",
+            backgroundColor: "#e53935",
             color: "white",
             ".MuiListItemIcon-root": { color: "white" },
           },

@@ -28,7 +28,7 @@ export default async function RootLayout({
           <ReduxProvider>
             <div className={styles.gridContainer}>
               <div className={styles.header}>
-                <Header lang={lang} />
+                <Header />
               </div>
               <div className={styles.sidebar}>
                 <SideNavbar lang={lang} />
