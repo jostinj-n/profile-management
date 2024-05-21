@@ -1,0 +1,17 @@
+services:
+  workforce-app:
+    build:
+      context: .
+    container_name: as-workforce-app
+    image: aviation/workforce-app
+    environment:
+      NODE_ENV: production
+      HOSTNAME: "0.0.0.0"
+      PORT: 8081
+      # Next.js collects completely anonymous telemetry data about general usage.
+      # Learn more here: https://nextjs.org/telemetry
+      # Uncomment the following line in case you want to disable telemetry during the build.
+      # ENV NEXT_TELEMETRY_DISABLED 1
+      # NEXT_TELEMETRY_DISABLED: 1
+    ports:
+      - 8081:8081

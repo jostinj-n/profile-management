@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --garda-primary01-color: RGBA(213, 43, 30, 1);
+    --garda-primary02-color: RGBA(116, 118, 120, 1);
+    --garda-neutral01-color: RGBA(213, 214, 210, 1);
+    --garda-neutral02-color: RGBA(205, 198, 192, 1);
+    --garda-neutral03-color: RGBA(0, 0, 0, 1);
+    --garda-neutral04-color: RGBA(255, 255, 255, 1);
+    --garda-charcoal-color: RGBA(60, 60, 74, 1);
+    --garda-dark-red-color: RGBA(109, 51, 50, 1);
+    --garda-grey-color: RGBA(178, 180, 179, 1);
+    --garda-rust-color: RGBA(234, 167, 148, 1);
+    --garda-light-grey-color: RGBA(225, 226, 224, 1);
+    --garda-critical-color: RGBA(109, 51, 50, 1);
+    --garda-high-servere-color: RGBA(12, 345, 678, 1);
+    --garda-high-substantial-color: RGBA(60, 60, 74, 1);
+    --garda-medium-color: RGBA(116, 118, 120, 1);
+    --garda-low-color: RGBA(178, 180, 179, 1);
+    --garda-minimal-color: RGBA(225, 226, 224, 1);
+    --garda-severe-color: RGBA(234, 198, 192, 1);
+    --garda-substantial-color: RGBA(205, 198, 192, 1);
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+}

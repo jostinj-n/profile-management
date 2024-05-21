@@ -1,0 +1,1280 @@
+{
+  "home": "Accueil",
+  "button": {
+    "apply": "TRANSLATE",
+    "clearAll": "TRANSLATE",
+    "continue": "Continuer",
+    "back": "Retour",
+    "cancel": "Annuler",
+    "close": "TRANSLATE",
+    "download": "TRANSLATE",
+    "createProfile": "TRANSLATE",
+    "export": "TRANSLATE",
+    "create": "TRANSLATE",
+    "edit": "TRANSLATE"
+  },
+  "sidebar": {
+    "home": "Accueil",
+    "management": "Modifier",
+    "profile": "Profiles",
+    "newProfile": "Nouveau profil",
+    "seniority": "Regroupements D'ancienneté"
+  },
+  "development": "Développement",
+  "employee": {
+    "menu": {
+      "personProfile": "Person Profile",
+      "employment": "Employment",
+      "contact": "Contact",
+      "personalDetails": "Personal Details",
+      "seniority": "Seniority",
+      "compensation": "Compensation",
+      "profileManagement": "Profile Management"
+    },
+    "listPage": {
+      "title": "Workforce"
+    },
+    "filterBar": {
+      "search": "TRANSLATE",
+      "searchExample": "TRANSLATE",
+      "union": "TRANSLATE",
+      "unionTrue": "TRANSLATE",
+      "unionFalse": "TRANSLATE",
+      "departments": "TRANSLATE",
+      "locations": "TRANSLATE",
+      "employeeType": "TRANSLATE",
+      "companies": "TRANSLATE",
+      "employmentStatus": "TRANSLATE",
+      "statusClassification": "TRANSLATE",
+      "divisions": "TRANSLATE",
+      "languages": "TRANSLATE",
+      "qualifications": "TRANSLATE",
+      "results": "TRANSLATE",
+      "includeProtectedInactiveOnly": "TRANSLATE"
+    },
+    "table": {
+      "label": "TRANSLATE",
+      "columns": {
+        "employeeNumber": "TRANSLATE",
+        "lmsNumber": "TRANSLATE",
+        "name": "TRANSLATE",
+        "location": "TRANSLATE",
+        "employeeType": "TRANSLATE",
+        "status": "TRANSLATE",
+        "employmentStatus": "TRANSLATE",
+        "workLocation": "TRANSLATE",
+        "department": "TRANSLATE",
+        "bilingual": "TRANSLATE"
+      },
+      "bilingualYes": "TRANSLATE",
+      "bilingualNo": "TRANSLATE"
+    },
+    "exportEmployeesModal": {
+      "title": "TRANSLATE",
+      "loadingMessage": "TRANSLATE",
+      "successMessage": "TRANSLATE",
+      "errorMessage": "TRANSLATE"
+    },
+    "profileCard": {
+      "title": "TRANSLATE",
+      "preferredName": "TRANSLATE",
+      "firstName": "TRANSLATE",
+      "middleName": "TRANSLATE",
+      "lastName": "TRANSLATE",
+      "resourceType": "TRANSLATE",
+      "gender": "TRANSLATE",
+      "imageDate": "TRANSLATE",
+      "formerFirstName": "TRANSLATE",
+      "formerLastName": "TRANSLATE",
+      "species": "TRANSLATE",
+      "notes": "TRANSLATE"
+    },
+    "profile": {
+      "title": "TRANSLATE",
+      "resourceType": "TRANSLATE",
+      "pronoun": "TRANSLATE",
+      "primaryLanguage": "TRANSLATE",
+      "firstName": "TRANSLATE",
+      "middleName": "TRANSLATE",
+      "lastName": "TRANSLATE",
+      "notes": "TRANSLATE",
+      "employeeNumber": "TRANSLATE",
+      "lms": "TRANSLATE",
+      "statusClassification": "TRANSLATE",
+      "department": "TRANSLATE",
+      "languageOfCommunications": "TRANSLATE",
+      "workLocation": "TRANSLATE",
+      "division": "TRANSLATE",
+      "companyName": "TRANSLATE",
+      "profileUpdate": "Mise à Jour du Profil"
+    },
+    "employmentDetailsCard": {
+      "title": "TRANSLATE",
+      "primaryWorkLocationCode": "TRANSLATE",
+      "organizationalRole": "TRANSLATE",
+      "jobTitle": "TRANSLATE",
+      "otherWorkLocations": "TRANSLATE",
+      "organizationalRoleSubtype": "TRANSLATE",
+      "unionizedPosition": "TRANSLATE",
+      "contactInformation": "TRANSLATE",
+      "workDevicePhoneNumber": "TRANSLATE",
+      "workEmailAddress": "TRANSLATE",
+      "workContactDeviceType": "TRANSLATE",
+      "dates": "TRANSLATE",
+      "jobHireDate": "TRANSLATE",
+      "probationDate": "TRANSLATE",
+      "lastDayOfWork": "TRANSLATE",
+      "firstDayOfWork": "TRANSLATE",
+      "originalHireDate": "TRANSLATE",
+      "terminationDate": "TRANSLATE",
+      "yes": "Oui",
+      "no": "Non"
+    },
+    "specializedEmploymentDetailsCard": {
+      "title": "TRANSLATE",
+      "otherEmployeeIdTypes": "TRANSLATE",
+      "otherEmployeeIdExpiry": "TRANSLATE",
+      "language": "TRANSLATE",
+      "isActive": "TRANSLATE",
+      "notes": "TRANSLATE",
+      "otherEmployeeIdValues": "TRANSLATE",
+      "isBilingual": "TRANSLATE",
+      "catsaJobLevel": "TRANSLATE",
+      "isActiveUnionSteward": "TRANSLATE",
+      "yes": "Oui",
+      "no": "Non"
+    },
+    "employmentInformation": {
+      "title": "TRANSLATE",
+      "workDetails": "TRANSLATE",
+      "workLocation": "TRANSLATE",
+      "employmentStatus": "TRANSLATE",
+      "department": "TRANSLATE",
+      "employeeNumber": "TRANSLATE",
+      "statusClassification": "TRANSLATE",
+      "division": "TRANSLATE"
+    },
+    "personalDetails": {
+      "title": "Détails personnels",
+      "dateOfBirth": "Date de naissance",
+      "taxIdType": "Numéro d'identification fiscale - Type",
+      "taxIdValue": "Numéro d'identification fiscale – Valeur",
+      "taxIdExpiry": "Numéro d'identification fiscale – Expiration",
+      "binaryGenderSelection": "Sélection du genre binaire",
+      "socialInsurance": "NAS",
+      "species": "Espèces"
+    },
+    "documentDetailCard": {
+      "title": "Document",
+      "idType": "Type",
+      "value": "Valeur",
+      "issuingAgency": "Agence émettrice",
+      "effectiveFrom": "À compter de",
+      "effectiveTo": "Efficace pour",
+      "notApplicable": "N/A"
+    },
+    "citizenDetails": {
+      "title": "TRANSLATE",
+      "citizenStatus": "TRANSLATE",
+      "country": "TRANSLATE"
+    },
+    "bankDetails": {
+      "title": "TRANSLATE",
+      "companyId": "TRANSLATE",
+      "bankName": "TRANSLATE",
+      "paymentTypeCode": "TRANSLATE",
+      "bankDetails": "TRANSLATE",
+      "accountType": "TRANSLATE",
+      "accountNumber": "TRANSLATE",
+      "routingNumber": "TRANSLATE",
+      "iban": "TRANSLATE",
+      "swift": "TRANSLATE",
+      "active": "TRANSLATE"
+    },
+    "contactDetails": {
+      "title": "Détails du contact",
+      "personalDeviceType": "Type d'appareil personnel",
+      "phoneNumberPrimary": "Numéro de téléphone (principal)",
+      "personalEmailAddressPrimary": "Adresse e-mail personnelle (principale)",
+      "smsAllowed": "SMS autorisés",
+      "emailGeneralCorrespondenceAllowed": "Correspondance générale par courrier électronique autorisée",
+      "yes": "Oui",
+      "no": "Non"
+    },
+    "contactAddressCard": {
+      "title": "Détails de l'adresse de contact",
+      "residentialAddress": "Adresse résidentielle",
+      "mailingAddress": "Adresse postale"
+    },
+    "emergencyContact": {
+      "title": "Personne à contacter en cas d'urgence",
+      "personalPronoun": "Pronom personnel de contact d’urgence",
+      "name": "Premier nom de famille",
+      "language": "Langue de communication",
+      "deviceType": "Type d'appareil personnel",
+      "phoneNumber": "Numéro de téléphone (principal)",
+      "email": "E-mail (principal)",
+      "notes": "Notes",
+      "relationship": "Liens de parenté",
+      "otherRelationship": "Détails de la relation",
+      "languageProficiency": "Maîtrise de la langue du lieu de travail"
+    },
+    "seniority": {
+      "title": "TRANSLATE",
+      "employmentInformationStatus": "TRANSLATE",
+      "details": "TRANSLATE",
+      "company": "TRANSLATE",
+      "tieBreaker": "TRANSLATE",
+      "statusClassificationTieBreaker": "TRANSLATE",
+      "suppress": "TRANSLATE",
+      "employmentStatus": "TRANSLATE",
+      "vacationEntitlement": "TRANSLATE",
+      "workLocationStartDate": "TRANSLATE",
+      "employmentStatusClassificationDate": "TRANSLATE",
+      "workLocationTieBreaker": "TRANSLATE",
+      "note": "TRANSLATE"
+    },
+    "lastUpdate": {
+      "title": "TRANSLATE"
+    },
+    "compensationPage": {
+      "title": "TRANSLATE",
+      "issuedPassType": "TRANSLATE",
+      "reimbursementType": "TRANSLATE",
+      "issuingAgency": "TRANSLATE",
+      "effectiveFrom": "TRANSLATE",
+      "passNumber": "TRANSLATE",
+      "vehicleMake": "TRANSLATE",
+      "vehicleColor": "TRANSLATE",
+      "vehicleLicensePlate": "TRANSLATE",
+      "vehicleModel": "TRANSLATE",
+      "reimbursementPercentage": "TRANSLATE",
+      "passMonthCost": "TRANSLATE",
+      "effectiveTo": "TRANSLATE"
+    },
+    "profileManagementPage": {
+      "navTabStaffingTransactions": "TRANSLATE",
+      "navTabProfileUpdates": "TRANSLATE"
+    },
+    "employeeStaffingTransactionsTable": {
+      "columns": {
+        "effectiveDate": "TRANSLATE",
+        "purpose": "TRANSLATE",
+        "employementRecord": "TRANSLATE",
+        "dateExpectedToReturn": "TRANSLATE",
+        "approvedBy": "TRANSLATE",
+        "explanation": "TRANSLATE"
+      },
+      "labelForRows": "TRANSLATE",
+      "actions": {
+        "printPDF": "TRANSLATE"
+      }
+    },
+    "profileUpdateAuditTable": {
+      "columns": {
+        "effectiveDate": "TRANSLATE",
+        "updatedBy": "TRANSLATE",
+        "informationType": "TRANSLATE"
+      },
+      "informationTypes": {
+        "contact": "TRANSLATE",
+        "profile": "TRANSLATE",
+        "bank": "TRANSLATE",
+        "seniority": "TRANSLATE",
+        "identifier": "TRANSLATE",
+        "employment": "TRANSLATE",
+        "unknown": "TRANSLATE"
+      },
+      "labelForRows": "TRANSLATE",
+      "actions": {
+        "printPDF": "TRANSLATE"
+      }
+    }
+  },
+  "workforce": {
+    "newProfile": {
+      "title": "Nouveau Profil",
+      "stepper": {
+        "first": "Informations Utilisateur",
+        "second": "Conditions d'Emploi",
+        "third": "Contact en cas d'Urgence",
+        "fourth": "Approbation",
+        "fifth": "Information Banquaire",
+        "six": "Information d'emploi",
+        "seven": " Détails de l'emploi spécial",
+        "eight": "Ancienneté",
+        "nine": "Stationnement"
+      },
+      "firstPage": {
+        "title": "Détails de l'utilisateur",
+        "section": {
+          "employeeIdentification": {
+            "label": "Identification de l'employé",
+            "employeeNumber": "Numéro d'employé",
+            "ressourceType": "Type de ressource",
+            "effectiveDate": "Date Effective",
+            "employeeNumberExample": "exemple : 1234567",
+            "employeeNumberHelper": "Vous pouvez trouver votre numéro d'employé dans",
+            "lmsNumber": "Numéro LMS"
+          },
+          "personalDetails": {
+            "label": "Détails personnels",
+            "profileUpdateLabel": "Profil Personnel",
+            "firstName": "Prénom",
+            "middleName": "Deuxième prénom",
+            "lastName": "Nom de famille",
+            "preferredName": "Nom préféré",
+            "gender": "Genre",
+            "dateOfBirth": "Date de naissance",
+            "sin": "Numéro d'assurance sociale (NAS)",
+            "primaryCommunicationLanguage": "Langue de Communication Principale",
+            "addFormerLegalName": "AJOUTER L'ANCIEN NOM LÉGAL",
+            "pronoun": "Pronom",
+            "language": "Langue",
+            "addLanguage": "AJOUTEZ UN LANGUAGE",
+            "species": "Espèces",
+            "notes": "notes",
+            "resourceType": "Type de Ressource"
+          },
+          "species": {
+            "label": "Espèces",
+            "notes": "Notes"
+          }
+        }
+      },
+      "secondPage": {
+        "section": {
+          "citizenStatus": {
+            "label": "Statut du citoyen",
+            "citizenCountry": "Pays de citoyenneté",
+            "issuing": "Agence Émettrice",
+            "status": "Statut",
+            "statusIdType": "Type d'identifiant de statut",
+            "idValue": "Valeur de l'identifiant",
+            "effectiveFrom": "Date d'effet",
+            "effectiveTo": "Date de fin de validité",
+            "add": "ADD CITIZENSHIP ID"
+          },
+          "governmentID": {
+            "label": "Identifiant gouvernemental",
+            "typeOfId": "Type d'identifiant",
+            "issuedByAgency": "Délivré par",
+            "issuedValue": "Valeur délivrée",
+            "expiryDate": "Date d'expiration",
+            "addGovernmentId": "AJOUTER UN IDENTIFIANT GOUVERNEMENTAL"
+          },
+          "binaryGender": {
+            "label": "Genre binaire",
+            "binaryGender": "Genre binaire"
+          },
+          "taxID": {
+            "label": "Identifiant fiscal",
+            "taxIdType": "Type d'identifiant fiscal",
+            "taxIdValue": "Valeur de l'identifiant fiscal",
+            "taxIssuing": "Agence de Délivrance de Numéros",
+            "expiryDateTax": "Date d'expiration de l'identifiant fiscal",
+            "addTaxId": "AJOUTER UN IDENTIFIANT FISCAL",
+            "notes": "Notes"
+          }
+        }
+      },
+      "thirdPage": {
+        "label": "Banking Info",
+        "company": "Entreprise",
+        "paymentTypeCode": "Code de Type de Paiement",
+        "bankName": "Nom de la Banque",
+        "accountNumber": "Numéro de compte",
+        "accountType": "Type de Compte",
+        "routingNumber": "Numéro de routage",
+        "transitNumber": "Numéro de transit",
+        "IBAN": "IBAN",
+        "SWIFT": "SWIFT",
+        "active": "Actif",
+        "add": "AJOUER UNE BANQUE"
+      },
+      "fourthPage": {
+        "label": "Contact Details",
+        "section": {
+          "phone": {
+            "label": "Téléphone",
+            "phoneNumber": "Phone Number",
+            "addPhone": "AJOUTER UN NUMERO",
+            "phoneType": "Type de téléphone",
+            "checkbox": {
+              "primaryNumber": "Numéro principal",
+              "allowSMS": "Autoriser les SMS"
+            }
+          },
+          "email": {
+            "label": "Email",
+            "personalEmail": "Email personnel",
+            "checkbox": {
+              "generalCorrespondenceAllowed": "Autorisation de correspondance générale",
+              "primaryEmail": "Address Courriel Primaire"
+            },
+            "addEmail": "AJOUTER UN EMAIL"
+          },
+          "address": {
+            "label": "Adresse",
+            "address": "Residential Address",
+            "mailingAddress": "Mailing Address",
+            "notes": "Notes",
+            "addMailingAddress": "Ajouter une adresse postale",
+            "inputLabel": {
+              "streetNameAndNumber": "Nom et numéro de rue",
+              "state": "État",
+              "city": "Ville",
+              "country": "Pays"
+            },
+            "chechbox": {
+              "sameMailingAddress": "Même Addresse e-mail"
+            },
+            "stateProvince": "État/Province",
+            "country": "Pays",
+            "postalCode": "Code postal"
+          }
+        }
+      },
+      "fifthPage": {
+        "section": {
+          "emergencyProfile": {
+            "label": "Profil d'urgence",
+            "relationship": "Relation",
+            "pronoun": "Pronom",
+            "firstName": "Prénom",
+            "lastName": "Nom de famille",
+            "preferredLanguage": "Langue préférée",
+            "proficiency": "Compétence",
+            "add": "AJOUER UN CONTACT D'URGENCE",
+            "primary": "Principal"
+          },
+          "phone": {
+            "label": "Numéro de Téléphone",
+            "phoneNumber": "Numéro de téléphone",
+            "phoneType": "Type de téléphone",
+            "primary": "Principal",
+            "allowSMS": "Autoriser les SMS",
+            "addPhone": "AJOUTER UN NUMERO"
+          },
+          "email": {
+            "label": "Addresse Courriel",
+            "emailAddress": "Adresse e-mail",
+            "primary": "Principal",
+            "addEmail": "AJOUTER COURRIEL",
+            "notes": "Notes",
+            "correspondence": "Correspondance Générale Autorisée"
+          },
+          "checkbox": {
+            "addPhone": "AJOUTER UN NUMERO",
+            "addEmergencyContact": "AJOUTER CONTACT D'URGENCE"
+          }
+        }
+      },
+      "sixthPage": {
+        "section": {
+          "employer": {
+            "label": "Employé",
+            "company": "Entreprise",
+            "division": "Division",
+            "department": "Département",
+            "primaryWorkLocation": "Lieu de travail principal",
+            "primaryWorkLocationCode": "Code du lieu de travail principal",
+            "add": "AJOUTER UN AUTRE LIEU DE TRAVAIL"
+          },
+          "role": {
+            "label": "Rôle",
+            "organizationRole": "Rôle dans l'organisation",
+            "organizationalRoleSubtype": "Sous-type de rôle organisationnel",
+            "jobTitle": "Intitulé du poste",
+            "employmentStatus": "Statut de l'emploi",
+            "statusClassification": "Classification du statut"
+          },
+          "employmentDetails": {
+            "label": "Détails Emploi",
+            "jobHireDate": "Date d'embauche",
+            "firstDayOfWork": "Premier jour de travail",
+            "unionizedPosition": "Poste syndiqué",
+            "probationPeriod": "Période d'essai",
+            "originalHireDate": "Date d'embauche originale",
+            "lastDay": "Dernier Jour de Rôle",
+            "termination": "Date de Cessation D'emploi"
+          },
+          "workPhone": {
+            "label": "Téléphone de travail",
+            "workPhone": "Téléphone Professionnel",
+            "phoneType": "Type de téléphone",
+            "addPhone": "AJOUTER UN NUMERO",
+            "primary": "Numéro Principal",
+            "allowSMS": "Autorisé SMS"
+          },
+          "workEmail": {
+            "label": "Addresse Courriel de Travail",
+            "workEmail": "E-mail professionnel",
+            "add": "AJOUTER UN COURRIEL",
+            "primary": "Email Principal",
+            "generalCorrespondenceAllowed": "General Correspondence Allowed"
+          }
+        }
+      },
+      "seventhPage": {
+        "section": {
+          "associated": {
+            "label": "Associé",
+            "otherEmployeeAssociatedIDType": "Autre type d'identification associé à l'employé",
+            "otherEmployeeAssociatedIDValue": "Valeur de l'identification associée à l'employé",
+            "expiryDate": "Date d'expiration",
+            "addOtherAssociatedID": "Ajouter un autre identifiant associé",
+            "language": "Langue",
+            "addLanguage": "Ajouter une langue",
+            "CATSAJobLevel": "Niveau d'emploi de l'ACSTA",
+            "isBilingual": "Est bilingue",
+            "activeUnionSteward": "Délégué syndical actif",
+            "isActiveHSCommitteeMember": "Est membre actif du comité H&S (Santé et Sécurité)",
+            "employmentNotes": "Notes d'emploi",
+            "notes": "Notes"
+          }
+        }
+      },
+      "eighthPage": {
+        "section": {
+          "seniorityDetails": {
+            "label": "Détails de l'ancienneté",
+            "vacationDate": "Date de droit aux congés",
+            "workLocationDate": "Date de début du lieu de travail",
+            "statusClassificationDate": "Date de début de la classification de statut",
+            "workLocationTiebreaker": "Valeur du déclassement du lieu de travail",
+            "statusClassificationTiebreakerValue": "Valeur du déclassement de la classification de statut",
+            "notes": "Notes",
+            "seniorityDate": "Date d'ancienneté",
+                        "suppress": "Suppress date"
+          }
+        }
+      },
+      "ninthPage": {
+        "section": {
+          "createNewProfile": "CREE PROFILE",
+          "parkingDetails": {
+            "label": "Détails du stationnement",
+            "passNumber": "Numéro de Pass",
+            "issuedPassType": "Type de passe délivré",
+            "reimbursementType": "Type de remboursement",
+            "reimbursementAmount": "Montant du remboursement",
+            "reimbursementTPercentage": "Pourcentage de remboursement",
+            "reimbursementDollar": "Montant du Remboursement",
+            "issuingAgency": "Agence de délivrance"
+          },
+          "costDetails": {
+            "label": "Détails des Coûts",
+            "monthlyRateWithTaxes": "Tarif mensuel avec taxes",
+            "effectiveFrom": "Effet à partir du",
+            "effectiveTo": "Effet jusqu'à"
+          },
+          "vehicleDetails": {
+            "label": "Détails du Véhicule",
+            "vehicleMake": "Marque du véhicule",
+            "vehicleMModel": "Modèle du véhicule",
+            "vehicleColor": "Couleur du véhicule",
+            "vehiclePlate": "Plaque d'immatriculation du véhicule"
+          }
+        }
+      },
+      "zodError": {
+        "isRequired": "Est Obligatoire"
+      },
+      "residencyAdress": {
+        "label": "Adresse de Résidence",
+        "address": "Adresse",
+        "postalCode": "Code Postal",
+        "stateProvince": "Province/Territoire",
+        "country": "Pays"
+      },
+      "contactInformation": {
+        "label": "Information de Contact",
+        "phoneNumber": "Numéro de Téléphone",
+        "phoneType": "Type de Téléphone",
+        "email": "Courriel",
+        "secondaryEmail": "Courriel Secondaire"
+      },
+      "employmentDetails": {
+        "label": "Détails emploi",
+        "statusClassification": "Status Classification",
+        "nameOfService": "Nom du Service",
+        "contractualFrom": "Contractuel De",
+        "contractualTo": "Contractuel à",
+        "helper": "Séléctionner",
+        "placeholder": "Territoire",
+        "none": "Aucune",
+        "companyNames": "Company Names",
+        "primaryWorkLocationName": "Nom du Lieu de Travail Principal",
+        "organisationalRole": "Rôle Organisationnel",
+        "employmentStatus": "Statut D'emploi",
+        "division": "Division",
+        "primaryWorkLocationCode": "Code du Lieu de Travail Principal",
+        "organisationalRoleSubtype": "Sous-type de Rôle Organisationnel",
+        "department": "Département",
+        "otherWorkLocations": "Autres Lieux de Travail",
+        "jobTitle": "Titre D'emploi"
+      },
+      "employmentDetailsDates": {
+        "jobHireDate": "Date D'embauche",
+        "originalHireDate": "Date D'embauche Original",
+        "firstDayOfWork": "Premier Jour de Travail",
+        "probationDate": "Date de Probation",
+        "title": "Date Détails de L'emploi"
+      },
+      "wagesDetails": {
+        "label": "Détails des Salaires",
+        "wages": "Status Classification",
+        "levelRate": "Détails des Salaires",
+        "dailyShiftHour": "Heure de Travail Quotidienne",
+        "employmentClassification": "Classement d'emploi"
+      },
+      "primaryContact": {
+        "label": "Contact Primaire",
+        "relationship": "Relation",
+        "firstName": "Prénom",
+        "lastName": "Nom de Famille"
+      },
+      "secondaryContact": {
+        "title": "Contact D'urgence Secondaire",
+        "label": "Secondary Contact",
+        "relationship": "Relationship",
+        "firstName": "First Name",
+        "lastName": "Last Name"
+      },
+      "phone": {
+        "phone": "Téléphone",
+        "phoneNumber": "Numéro de Téléphone",
+        "addPhone": "AJOUTER UN NUMERO"
+      },
+      "email": {
+        "email": "Courriel",
+        "addEmail": "AJOUTER COURRIEL",
+        "cancelAdd": "CANCEL",
+        "addNewContact": "ADD NEW CONTACT"
+      }
+    },
+    "seniority": {
+      "template": {
+        "list": {
+          "title": "Modèles  Ancienneté",
+          "result": "Resultats",
+          "Search": "Rechercher",
+          "buttonEdit": "Modifier Un modèle",
+          "run": "Executer",
+          "export": "Exporter",
+          "noticeBox": "Voir la note",
+          "column": {
+            "name": "Modèle",
+            "company": "Compagnie",
+            "division": "Division",
+            "Department": "Département",
+            "workLocation": "Localisation",
+            "reportDataType": "Type de rapport",
+            "unionizedOnly": "Syndiqué",
+            "organizationalRole": "Rôle organisationnel",
+            "organizationalRoleSubtype": "Sous-type de rôle organisationnel",
+            "statusClassification": "Status de classification",
+            "employmentStatus": "Statut d'emploi"
+          }
+        },
+        "msgSelectTemplate": "Vous devez selectionner un modèle  dans l'onglet <strong>'MODÈLES'</strong>.",
+        "notice": {
+          "title": "La logique de classement par ancienneté est basée sur ces règles :",
+          "rules": [
+            "Les employés dont les dates sont les plus anciennes auront un rang d'ancienneté plus élevé.",
+            "Lorsque deux employés ou plus partagent la même date, la valeur de départage qui leur a été attribuée sera utilisée.",
+            "Lorsque deux employés ou plus partagent la même date et la même valeur, l'employé ayant le numéro d'employé le plus bas se verra attribuer le rang le plus élevé."
+          ]
+        }
+      },
+      "person": {
+        "employee_number": "Employee",
+        "LMS": "LMS",
+        "fullName": "Nom",
+        "seniorityRank": "Rang d'ancienneté",
+        "statusClassification": "Status de Classification",
+        "workLocationDate": "WLS Date"
+      },
+      "tab": {
+        "create": "CREATION DU MODÈLE",
+        "templates": "MODÈLES",
+        "report": "RAPPORT"
+      },
+      "pagination": {
+        "showing": "Affichage de",
+        "to": "à",
+        "of": "sur",
+        "results": "résultats"
+      }
+    },
+    "seniority": {
+      "template": {
+        "list": {
+          "title": "Modèles Ancienneté",
+          "result": "Resultats",
+          "Search": "Rechercher",
+          "buttonEdit": "Crée un modèle",
+          "run": "TRIER",
+          "export": "Exporter",
+          "downloading": "Téléchargement",
+          "noticeBox": "Voir la note",
+          "Yes": "Oui",
+          "No": "Non",
+          "column": {
+            "name": "Modèle",
+            "company": "Compagnie",
+            "division": "Division",
+            "Department": "Département",
+            "workLocation": "Localisation",
+            "reportDataType": "Type de rapport",
+            "unionizedOnly": "Syndiqué",
+            "includeContactDeatils": "Inclure les contacts",
+            "organizationalRole": "Rôle organisationnel",
+            "organizationalRoleSubtype": "Sous-type de rôle organisationnel",
+            "statusClassification": "Status de classification",
+            "employmentStatus": "Statut d'emploi",
+            "action": "Action"
+          },
+          "action": {
+            "edit": "Modifier",
+            "Delete": "Supprimer"
+          }
+        },
+        "delete": {
+          "title": "Delete Grouping",
+          "message": "Êtes-vous sûr de vouloir supprimer le regroupement avec {g} ? Cette action ne peut pas être annulée."
+        },
+        "msgSelectTemplate": "Vous devez selectionner un modèle  dans l'onglet <strong>'MODÈLES'</strong>.",
+        "notice": {
+          "title": "La logique de classement par ancienneté est basée sur ces règles :",
+          "rules": [
+            "Les employés dont les dates sont les plus anciennes auront un rang d'ancienneté plus élevé.",
+            "Lorsque deux employés ou plus partagent la même date, la valeur de départage qui leur a été attribuée sera utilisée.",
+            "Lorsque deux employés ou plus partagent la même date et la même valeur, l'employé ayant le numéro d'employé le plus bas se verra attribuer le rang le plus élevé."
+          ]
+        },
+        "back": "Retour"
+      },
+      "person": {
+        "employee_number": "Employee",
+        "LMS": "LMS",
+        "fullName": "Nom",
+        "seniorityRank": "Rang d'ancienneté",
+        "statusClassification": "Status de Classification",
+        "workLocationDate": "WLS Date"
+      },
+      "tab": {
+        "create": "CREATION DU MODÈLE",
+        "templates": "MODÈLES",
+        "report": "RAPPORT"
+      },
+      "pagination": {
+        "showing": "Affichage de",
+        "to": "à",
+        "of": "sur",
+        "results": "résultats"
+      },
+      "filter": {
+        "company": "Companie",
+        "division": "Division",
+        "seniority_date_type": "Type de rapport",
+        "worklocation": "Location",
+        "All": "Tous"
+      },
+      "groupingForms": {
+        "success": "Modèle enregistré avec succès",
+        "successDelete": "Modèle supprimé avec succès",
+        "failed": "Erreur d'enregistrement du modèle",
+        "create": "Créer",
+        "cancel": "Annuler",
+        "updateCancel": "Annuler",
+        "update": "Modifier",
+        "reset": "Reintialiser",
+        "label": "Définir un Modèle",
+        "labelCreate": "Créer un Modèle",
+        "labelUpdate": "Modifier un Modèle",
+        "field": {
+          "groupingName": {
+            "label": "Nom du Groupe *",
+            "RequireMessage": "Le nom du modéle est requis"
+          },
+          "companyName": {
+            "label": "Nom de l'Entreprise *",
+            "RequireMessage": "La companie est requise"
+          },
+          "companyDivision": {
+            "label": "Division de l'Entreprise *",
+            "RequireMessage": "La division est requise"
+          },
+          "department": {
+            "label": "Département *",
+            "RequireMessage": "Le département est requis"
+          },
+          "workLocation": {
+            "label": "Lieu de travail",
+            "RequireMessage": "Le lieu de travail est requis"
+          },
+          "organizationalRole": {
+            "label": "Rôle Organisationnel",
+            "RequireMessage": "Le rôle organisationnel est requis"
+          },
+          "organizationalRoleSubtypes": {
+            "label": "Sous-types de Rôle Organisationnel",
+            "RequireMessage": "Le Sous-types de Rôle Organisationnel est requis"
+          },
+          "statusClassification": {
+            "label": "Classification de Statut *",
+            "RequireMessage": "Le classification est requise"
+          },
+          "employmentStatus": {
+            "label": "Statut d'Emploi *",
+            "RequireMessage": "Le status employé est requis"
+          },
+          "unionizedEmployeesOnly": {
+            "label": "Uniquement les Employés Syndiqués",
+            "RequireMessage": ""
+          },
+          "includeContactDetails": {
+            "label": "Inclure les Détails de Contact",
+            "RequireMessage": ""
+          },
+          "reportDateType": {
+            "label": "Type de Rapport *",
+            "RequireMessage": "Le type de rappoet est requise"
+          }
+        },
+        "requiredMessage": "Ce champs est obligatoire",
+        "messageExist": "Un groupement avec ce nom existe déjà. Veuillez choisir un autre nom",
+        "messageCreate": "Nouveau modèle créé avec succès !",
+        "messageUpdate": "Le modèle a été mis a jour avec succès !",
+        "messageDelete": "Êtes-vous sûr de vouloir supprimer ce modèle ?"
+      }
+    },
+    "staffingTransaction": {
+      "title": "Staffing Transaction",
+      "activeStepLabel": [
+        "Objectif de la Transaction",
+        "Details de la Transaction",
+        "Sommaire"
+      ],
+      "button": {
+        "back": "RETOUR",
+        "next": "SUIVANT",
+        "submit": "SOUMETRE",
+        "cancel": "ANNULER"
+      },
+      "transactionPurpose": {
+        "title": "Objectif",
+        "purposes": [
+          "Classification Change",
+          "Leave of absence",
+          "Return to Work",
+          "Resignation",
+          "Promotion",
+          "Termination",
+          "Salary Revision",
+          "Parking Change",
+          "Demotion",
+          "Transfer",
+          "Other"
+        ],
+        "field": {
+          "effectiveDate": {
+            "label": "Effective Date *",
+            "RequireMessage": "Effective Date is required"
+          },
+          "employmentRecord": {
+            "label": "Employement Record *",
+            "RequireMessage": "Employement Record is required"
+          },
+          "purpose": {
+            "label": "Purpose *",
+            "RequireMessage": "Purpose is required"
+          },
+          "reason": {
+            "label": "Reason",
+            "RequireMessage": "Reason is required"
+          }
+        }
+      },
+      "summary": {
+        "title": "Summary Details",
+        "purpose": "Objectif",
+        "effectiveDate": "Date Effective",
+        "employmentRecord": "Employee",
+        "division": "Division",
+        "workLocationName": "Work Location Name",
+        "workLocationCode": "Work Location Code",
+        "statusClassification": "Status Classification",
+        "employmentStatus": "Employment Status"
+      },
+      "transactionDetails": {
+        "leaveAbsence": {
+          "success": "Congé enregistré avec succès",
+          "failed": "Erreur d'enregistrement du congé",
+          "loa_type": {
+            "label": "Loa Type",
+            "requiredMessage": "Loa Type is required"
+          },
+          "date_from": {
+            "label": "Date début",
+            "requiredMessage": "Date From is required"
+          },
+          "date_to": {
+            "label": "Date Fin",
+            "requiredMessage": "Date To is required",
+            "ruleMessage": "La date de fin ne peut pas être antérieure à la date de début"
+          },
+          "date_expected_return_to_work": {
+            "label": "Date de retour effectif",
+            "requiredMessage": "Date expected is required",
+            "ruleMessage": "La date de retour ne peut pas être antérieure à la date de début",
+            "ruleMessageWithDateTo": "La date prévue doit être supérieure de 7 jours à la date de fin"
+          },
+          "notes": {
+            "label": "Notes",
+            "requiredMessage": ""
+          },
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": "Le code ROE est requis"
+          },
+          "code_description": {
+            "label": "Description du code",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": ""
+          },
+          "employment_status": {
+            "label": "Status de l'employé",
+            "requiredMessage": "Employment Status is required"
+          }
+        },
+        "resignation": {
+          "success": "Resignation enregistré avec succés",
+          "failed": "Erreur d'enregistrement da la resignation",
+          "last_day_work_in_role": {
+            "label": "Dernier jour de travail",
+            "requiredMessage": "Last Day worked in Role is required"
+          },
+          "reason": {
+            "label": "Raison",
+            "requiredMessage": "Reason is required"
+          },
+          "other_reason_notes": {
+            "label": "Autre raison",
+            "requiredMessage": "Other Reason is required"
+          },
+          "rehire_flag": {
+            "label": "Re-embauche",
+            "requiredMessage": "Would rehire is required"
+          },
+          "notes_for_rehire_selection": {
+            "label": "Raison pour Re-embauche",
+            "requiredMessage": "Reason for the rehire is required"
+          },
+          "additional_notes": {
+            "label": "Notes Additionnelle",
+            "requiredMessage": ""
+          },
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": " ROE Code is required"
+          },
+          "code_description": {
+            "label": "Description du code",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": ""
+          },
+          "employment_status": {
+            "label": "Status de l'employé",
+            "requiredMessage": "Employment Status is required"
+          }
+        },
+        "termination": {
+          "success": "Résiliation enregistré avec succés",
+          "failed": "Erreur d'enregistrement da la Résiliation",
+          "last_day_work_in_role": {
+            "label": "Dernier jour de travail",
+            "requiredMessage": "Last Day worked in Role is required"
+          },
+          "reason": {
+            "label": "Raison",
+            "requiredMessage": "Reason is required"
+          },
+          "other_reason_notes": {
+            "label": "Autre raison",
+            "requiredMessage": "Other Reason is required"
+          },
+          "rehire_flag": {
+            "label": "Re-embauche",
+            "requiredMessage": "Would rehire is required"
+          },
+          "notes_for_rehire_selection": {
+            "label": "Raison pour Re-embauche",
+            "requiredMessage": "Reason for the rehire is required"
+          },
+          "additional_notes": {
+            "label": "Notes Additionnelle",
+            "requiredMessage": ""
+          },
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": " ROE Code is required"
+          },
+          "code_description": {
+            "label": "Description du code",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": ""
+          },
+          "employment_status": {
+            "label": "Status de l'employé",
+            "requiredMessage": "Employment Status is required"
+          }
+        },
+        "classificationChange": {
+          "newClassificationChange": "Nouveau changement de classification",
+          "currentPosition": "Position actuelle",
+          "missingPersonID": "Impossible de trouver le numéro d'employé",
+          "success": "Modification de classification enregistrée avec succès",
+          "failed": "Échec de l'enregistrement du changement de classification",
+          "department": {
+            "label": "Département",
+            "requiredMessage": "Département est requis"
+          },
+          "vacationEntitlementDate": {
+            "label": "Date de droit aux vacances",
+            "requiredMessage": "Date de droit aux vacances est requis",
+            "cannotBeInThePast": "Date de droit aux vacances ne peut pas être dans le passé"
+          },
+          "jobLevel": {
+            "label": "Niveau d'emploi",
+            "requiredMessage": "Niveau d'emploi est requis"
+          },
+          "employmentStatus": {
+            "label": "Statut d'emploi",
+            "requiredMessage": "Statut d'emploi est requis"
+          },
+          "statusClassification": {
+            "label": "Classement des statuts",
+            "requiredMessage": "Classement des statuts est requis"
+          },
+          "explanation": {
+            "label": "Explication"
+          }
+        },
+        "other": {
+          "success": "Autre enregistré avec succés",
+          "failed": "Erreur d'enregistrement da la Autre",
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": " ROE Code is required"
+          },
+          "code_description": {
+            "label": "Description du code",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": "Explication est obligatoire"
+          }
+        },
+        "parkingChange": {
+          "success": "Passe Parking enregistré avec succés",
+          "failed": "Erreur d'enregistrement du Passe Parking",
+          "new": "Nouveau pass",
+          "parking_pass_type": {
+            "label": "Type Parking",
+            "requiredMessage": "Type Parking est requis"
+          },
+          "reimbursement_type": {
+            "label": "Type de Remboursement",
+            "requiredMessage": "Type de Remboursement est requis"
+          },
+          "reimbursement_value": {
+            "label": "Valeur du remboursement",
+            "requiredMessage": "RValeur du remboursement est requise"
+          },
+          "parking_issuing_agency": {
+            "label": "Agence de stationnement",
+            "requiredMessage": "Agence de stationnement est requise"
+          },
+          "pass_number": {
+            "label": "Numéro du passe",
+            "requiredMessage": "Numéro du passe est requis"
+          },
+          "pass_monthly_cost": {
+            "label": "Coût mensuel du laissez-passer",
+            "requiredMessage": "Coût mensuel du laissez-passer est requis"
+          },
+          "effective_from": {
+            "label": "Date de début effective",
+            "requiredMessage": "Date effective est requise"
+          },
+          "effective_to": {
+            "label": "Date de fin effective",
+            "requiredMessage": "Date de fin effective est requise"
+          },
+          "vehicle_make": {
+            "label": "Marque du véhicule",
+            "requiredMessage": "Marque du véhicule est requise"
+          },
+          "vehicle_model": {
+            "label": "Modèle de véhicule",
+            "requiredMessage": "Modèle de véhicule est requis"
+          },
+          "vehicle_color": {
+            "label": "Couleur du véhicule",
+            "requiredMessage": "Couleur du véhicule est requise"
+          },
+          "vehicle_licence_plate": {
+            "label": "Immatriculation du véhicule",
+            "requiredMessage": "Immatriculation du véhicule est requise"
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": "Explication est requise"
+          }
+        },
+        "mainPromotionDemotionTransfer": {
+          "newCompany": {
+            "label": "Companie",
+            "requiredMessage": " Companie est requise"
+          },
+          "newDivision": {
+            "label": "Division",
+            "requiredMessage": " Division est requise"
+          },
+          "newWorkLocationCode": {
+            "label": "Code du lieu de travail",
+            "requiredMessage": " Code du lieu de travail est requis"
+          },
+          "newWorkLocationName": {
+            "label": "Lieu de travail",
+            "requiredMessage": " Code du lieu de travail est requis"
+          },
+          "newDepartment": {
+            "label": "Département",
+            "requiredMessage": "Département est requis"
+          },
+          "newOrganizationalRole": {
+            "label": "Rôle",
+            "requiredMessage": "Rôle est requis"
+          },
+          "newOrganizationalRoleSubtype": {
+            "label": "Sous-type de Rôle",
+            "requiredMessage": "Sous-type de Rôle est requis"
+          },
+          "newJobTitle": {
+            "label": "Titre",
+            "requiredMessage": "Titre est requis"
+          },
+          "newCatsaJobLevel": {
+            "label": "Niveau d'emploi",
+            "requiredMessage": "niveau d'emploi est requis"
+          },
+          "newEmploymentClassification": {
+            "label": "Classe d'emploi",
+            "requiredMessage": "Classe d'emploi est requise"
+          },
+          "employmentStatus": {
+            "label": "Status de l'emploi",
+            "requiredMessage": "status de l'emploi est requis"
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": "Explication est requise"
+          },
+          "isNewPositionUnionized": {
+            "label": "Poste syndiqué",
+            "requiredMessage": "Poste syndiqué est requis"
+          },
+          "lastDayWorkedInRole": {
+            "label": "Dernier jour travaillé dans ce rôle",
+            "requiredMessage": "Dernier jour travaillé dans ce rôle est requis"
+          },
+          "firstDayWorkedInRole": {
+            "label": "Premier jour travaillé dans ce rôle",
+            "requiredMessage": "Premier jour travaillé dans ce rôle est requis"
+          }
+        },
+        "promotion": {
+          "title": "Nouvelle Promotion",
+          "success": "Promotion enregistrée avec succés",
+          "failed": "Erreur d'enregistrement de la promotion"
+        },
+        "demotion": {
+          "title": "Nouvelle Rétrogradation",
+          "success": "Rétrogradation enregistrée avec succés",
+          "failed": "Erreur d'enregistrement de la Rétrogradation"
+        },
+        "transfer": {
+          "title": "Nouveau Transfert",
+          "success": "Transfert enregistrée avec succés",
+          "failed": "Erreur d'enregistrement de la transfert",
+          "transferType": {
+            "label": "Type Transfert",
+            "requiredMessage": "Type de transfert est requis"
+          }
+        },
+        "salaryRevision": {
+          "success": "La révision du salaire a été enregistrée avec succès",
+          "failed": "Échec de l'enregistrement de la révision du salaire",
+          "current_catsa_job_level": {
+            "label": "Niveau d'emploi actuel",
+            "requiredMessage": ""
+          },
+          "new_catsa_job_level": {
+            "label": "Nouveau niveau d'emploi",
+            "requiredMessage": "Nouveau  poste est requis"
+          },
+          "explanation": {
+            "label": "Explication",
+            "requiredMessage": "Explication est requise"
+          }
+        }
+      },
+      "transactionSummary": {
+        "leaveAbsence": {
+          "example": "leaveAbsenceExample"
+        },
+        "resignation": {
+          "example": "resignationExample"
+        },
+        "returnToWork": {
+          "example": "returnToWork"
+        },
+        "promotion": {
+          "example": "promotion"
+        },
+        "termination": {
+          "example": "terminationExample"
+        },
+        "salaryRevision": {
+          "example": "salaryRevisionExample"
+        },
+        "parkingChange": {
+          "example": "parkingChangeExample"
+        },
+        "demotion": {
+          "example": "demotionExample"
+        },
+        "transfer": {
+          "example": "transferExample"
+        },
+        "other": {
+          "example": "otherExample"
+        }
+      }
+    }
+  }
+}
