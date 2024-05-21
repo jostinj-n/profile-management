@@ -1,0 +1,25 @@
+
+.gridContainer {
+    display: grid;
+    height: 100vh;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 256px 1fr;
+}
+
+.sidebar {
+    background-color: #FBFBFA;
+    border-right: 1.5px solid #0000001F;
+    padding: 1rem;
+}
+
+.header {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border-bottom: 1.5px solid #0000001F;
+}
+
+.main {
+    overflow-y: auto;
+    height: calc(100vh - 60px);
+    padding: 1rem;
+}

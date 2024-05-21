@@ -1,0 +1,1230 @@
+{
+  "home": "Home",
+  "button": {
+    "apply": "Apply",
+    "clearAll": "Clear All",
+    "continue": "NEXT",
+    "back": "Back",
+    "cancel": "Cancel",
+    "close": "Close",
+    "download": "Download",
+    "createProfile": "Create Profile",
+    "export": "Export",
+    "create": "Create",
+    "edit": "Edit"
+  },
+  "sidebar": {
+    "home": "Home",
+    "management": "Manage",
+    "profile": "Profiles",
+    "newProfile": "New profile",
+    "seniority": "Seniority Groupings"
+  },
+  "development": "Development",
+  "employee": {
+    "menu": {
+      "personProfile": "Person Profile",
+      "employment": "Employment",
+      "contact": "Contact",
+      "personalDetails": "Personal Details",
+      "seniority": "Seniority",
+      "compensation": "Compensation",
+      "profileManagement": "Profile Management"
+    },
+    "listPage": {
+      "title": "Workforce"
+    },
+    "filterBar": {
+      "search": "Search",
+      "searchExample": "Name, EE#, LMS#...",
+      "union": "Union",
+      "unionTrue": "Yes",
+      "unionFalse": "No",
+      "departments": "Departments",
+      "locations": "Work Locations",
+      "employeeType": "Employee Type",
+      "companies": "Companies",
+      "employmentStatus": "Employment Status",
+      "statusClassification": "Status Classification",
+      "divisions": "Divisions",
+      "languages": "Languages",
+      "qualifications": "Qualifications",
+      "results": "Results",
+      "includeProtectedInactiveOnly": "Include Protected/Inactive Only"
+    },
+    "table": {
+      "label": "Employees Table",
+      "columns": {
+        "employeeNumber": "Employee #",
+        "lmsNumber": "LMS #",
+        "name": "Name",
+        "location": "Location",
+        "employeeType": "Employee Type",
+        "status": "Status Classification",
+        "employmentStatus": "Employment Status",
+        "workLocation": "Work Location",
+        "department": "Department",
+        "bilingual": "Bilingual"
+      },
+      "bilingualYes": "Yes",
+      "bilingualNo": "No"
+    },
+    "exportEmployeesModal": {
+      "title": "Export Employees",
+      "successMessage": "File successfully generated. Click the download button to download the file.",
+      "loadingMessage": "Please wait while we process your request...",
+      "errorMessage": "An error occurred while processing your request. Please try again later."
+    },
+    "profileCard": {
+      "title": "Profile Details",
+      "preferredName": "Preferred Name",
+      "firstName": "Legal First Name",
+      "middleName": "Middle Name",
+      "lastName": "Legal Last Name",
+      "resourceType": "Resource Type",
+      "gender": "Gender",
+      "imageDate": "Image Date",
+      "formerFirstName": "Former Legal First Name",
+      "formerLastName": "Former Legal Last Name",
+      "species": "Species",
+      "notes": "Notes"
+    },
+    "profile": {
+      "title": "User Profile",
+      "resourceType": "Resource Type",
+      "pronoun": "Pronoun",
+      "primaryLanguage": "Primary Communication Language",
+      "firstName": "Legal First Name",
+      "middleName": "Middle Name",
+      "lastName": "Legal Last Name",
+      "notes": "Notes",
+      "employeeNumber": "Employee Number",
+      "lms": "LMS Number",
+      "statusClassification": "Status Classification",
+      "department": "Department",
+      "languageOfCommunications": "Language of Communications",
+      "workLocation": "Work Location",
+      "division": "Division",
+      "companyName": "Company Name",
+      "profileUpdate": "Profile Update"
+    },
+    "employmentDetailsCard": {
+      "title": "Employment Details",
+      "primaryWorkLocationCode": "Primary Work Location Code",
+      "organizationalRole": "Organizational Role",
+      "jobTitle": "Job Title",
+      "otherWorkLocations": "Other Work Locations",
+      "organizationalRoleSubtype": "Organizational Role Subtype",
+      "unionizedPosition": "Unionized Position",
+      "contactInformation": "Contact Information",
+      "workDevicePhoneNumber": "Work Device Phone Number",
+      "workEmailAddress": "Work Email Address",
+      "workContactDeviceType": "Work Contact Device Type",
+      "dates": "Dates",
+      "jobHireDate": "Job Hire Date",
+      "probationDate": "Probation Date",
+      "lastDayOfWork": "Last Day of Work in Role",
+      "firstDayOfWork": "First Day of Work",
+      "originalHireDate": "Original Hire Date",
+      "terminationDate": "Termination Date",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "specializedEmploymentDetailsCard": {
+      "title": "Specialized Employment Details (Aviation)",
+      "otherEmployeeIdTypes": "Other Employee Associated ID Types",
+      "otherEmployeeIdExpiry": "Other Employee Associated ID Expiry Dates",
+      "language": "Language",
+      "isActive": "Is Active H&S",
+      "notes": "Notes",
+      "otherEmployeeIdValues": "Other Employee Associated ID Values",
+      "isBilingual": "Is Bilingual",
+      "catsaJobLevel": "CATSA Job Level",
+      "isActiveUnionSteward": "Is Active Union Steward",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "employmentInformation": {
+      "title": "Employment Information",
+      "workDetails": "Work Details",
+      "workLocation": "Work Location",
+      "employmentStatus": "Employment Status",
+      "department": "Department",
+      "employeeNumber": "Employee Number",
+      "statusClassification": "Status Classification",
+      "division": "Division"
+    },
+    "personalDetails": {
+      "title": "Personal Details",
+      "dateOfBirth": "Date of Birth",
+      "taxIdType": "Tax ID - Type",
+      "taxIdValue": "Tax ID - Value",
+      "taxIdExpiry": "Tax ID - Expiry",
+      "binaryGenderSelection": "Binary Gender Selection",
+      "socialInsurance": "SIN",
+      "species": "Species"
+    },
+    "documentDetailCard": {
+      "title": "Document",
+      "idType": "Type",
+      "value": "Value",
+      "issuingAgency": "Issuing Agency",
+      "effectiveFrom": "Effective From",
+      "effectiveTo": "Effective To",
+      "notApplicable": "N/A"
+    },
+    "citizenDetails": {
+      "title": "Citizen Status",
+      "citizenStatus": "Citizen Status",
+      "country": "Country"
+    },
+    "bankDetails": {
+      "title": "Banking Information",
+      "companyId": "Company ID",
+      "bankName": "Bank Name",
+      "paymentTypeCode": "Payment Type Code",
+      "bankDetails": "Bank Details",
+      "accountType": "Account Type",
+      "accountNumber": "Account Number",
+      "routingNumber": "Routing Number",
+      "iban": "IBAN",
+      "swift": "SWIFT",
+      "active": "Active"
+    },
+    "contactDetails": {
+      "title": "Contact Details",
+      "personalDeviceType": "Personal Device Type",
+      "phoneNumberPrimary": "Phone Number (Primary)",
+      "personalEmailAddressPrimary": "Personal Email Address (Primary)",
+      "smsAllowed": "SMS Allowed",
+      "emailGeneralCorrespondenceAllowed": "Email General Correspondence Allowed",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "contactAddressCard": {
+      "title": "Contact Address Details",
+      "residentialAddress": "Residential Address",
+      "mailingAddress": "Mailing Address"
+    },
+    "emergencyContact": {
+      "title": "Emergency Contact",
+      "personalPronoun": "Emergency Contact Personal Pronoun",
+      "name": "First, Last Name",
+      "language": "Language of Communication",
+      "deviceType": "Personal Device Type",
+      "phoneNumber": "Phone Number (Primary)",
+      "email": "Email (Primary)",
+      "notes": "Notes",
+      "relationship": "Relationship",
+      "otherRelationship": "Relationship Details",
+      "languageProficiency": "Proficiency in Work Location Language"
+    },
+    "seniority": {
+      "title": "Seniority Information",
+      "employmentInformationStatus": "Employment Information Status",
+      "details": "Details",
+      "company": "Company",
+      "tieBreaker": "Work Location Tie Breaker",
+      "statusClassificationTieBreaker": "Status Classification Tie Breaker",
+      "suppress": "Suppressed",
+      "employmentStatus": "Employment Status",
+      "vacationEntitlement": "Vacation Entitlement",
+      "workLocationStartDate": "Work Location Start Date",
+      "employmentStatusClassificationDate": "Employment Status Classification Date",
+      "workLocationTieBreaker": "Work Location Tie Breaker",
+      "note": "Notes"
+    },
+    "lastUpdate": {
+      "title": "Last Updates"
+    },
+    "compensationPage": {
+      "title": "Pass Details",
+      "issuedPassType": "Issued Pass Type",
+      "reimbursementType": "Reimbursement Type",
+      "issuingAgency": "Issuing Agency",
+      "effectiveFrom": "Effective From",
+      "passNumber": "Tag/Pass Number",
+      "vehicleMake": "Vehicle Make",
+      "vehicleColor": "Vehicle Color",
+      "vehicleLicensePlate": "Vehicle License Plate",
+      "vehicleModel": "Vehicle Model",
+      "reimbursementPercentage": "Reimbursement %",
+      "passMonthCost": "Pass Month Cost (Taxes Included)",
+      "effectiveTo": "Effective To"
+    },
+    "profileManagementPage": {
+      "navTabStaffingTransactions": "Staffing Transactions",
+      "navTabProfileUpdates": "Profile Updates"
+    },
+    "employeeStaffingTransactionsTable": {
+      "columns": {
+        "effectiveDate": "Effective Date",
+        "purpose": "Purpose",
+        "employementRecord": "Employment Record",
+        "dateExpectedToReturn": "Expected Return to Work",
+        "approvedBy": "Approved By",
+        "explanation": "Explanation"
+      },
+      "labelForRows": "Showing",
+      "actions": {
+        "printPDF": "Print PDF"
+      }
+    },
+    "profileUpdateAuditTable": {
+      "columns": {
+        "effectiveDate": "Effective Date",
+        "updatedBy": "Updated By",
+        "informationType": "Information Type"
+      },
+      "informationTypes": {
+        "contact": "Contact Details",
+        "profile": "Person Profile",
+        "bank": "Banking Information",
+        "seniority": "Seniority",
+        "identifier": "Government ID",
+        "employment": "Employment Details",
+        "unknown": "Unknown"
+      },
+      "labelForRows": "Showing",
+      "actions": {
+        "printPDF": "Print PDF"
+      }
+    }
+  },
+  "workforce": {
+    "newProfile": {
+      "title": "New Profile",
+      "stepper": {
+        "first": "User Information",
+        "second": "Personal Details",
+        "third": "Banking Information",
+        "fourth": "Contact Details",
+        "fifth": "Emergency Contact",
+        "six": "Employment Information",
+        "seven": "Special Employment Details",
+        "eight": "Seniority",
+        "nine": "Parking"
+      },
+      "firstPage": {
+        "title": "User Details",
+        "section": {
+          "employeeIdentification": {
+            "label": "Employee Identification",
+            "employeeNumber": "Employee Number",
+            "ressourceType": "Ressource Type",
+            "effectiveDate": "Effective Date",
+            "employeeNumberExample": "example: 1234567",
+            "employeeNumberHelper": "You can find your Employee Number in",
+            "lmsNumber": "LMS Number"
+          },
+          "personalDetails": {
+            "label": "Personal Details",
+            "profileUpdateLabel": "Personal Profile",
+            "firstName": "Legal First Name",
+            "middleName": "Middle Name",
+            "lastName": "Legal Last Name",
+            "preferredName": "Preferred Name",
+            "gender": "Gender",
+            "dateOfBirth": "Date of Birth",
+            "sin": "Social Insurance Number",
+            "primaryCommunicationLanguage": "Primary Communication Language",
+            "addFormerLegalName": "ADD FORMER LEGAL NAME",
+            "pronoun": "Pronoun",
+            "language": "Language",
+            "addLanguage": "ADD LANGUAGE",
+            "species": "Species",
+            "notes": "notes",
+            "resourceType": "Resource Type"
+          },
+          "species": {
+            "label": "Species*",
+            "notes": "Notes"
+          }
+        }
+      },
+      "secondPage": {
+        "section": {
+          "citizenStatus": {
+            "label": "Citizenship Status",
+            "citizenCountry": "Citizenship Country",
+            "issuing": "Issuing Agency",
+            "status": "Status",
+            "statusIdType": "Status ID Type",
+            "idValue": "ID Value",
+            "effectiveFrom": "Effective From Date",
+            "effectiveTo": "Effective To Date",
+            "add": "ADD CITIZENSHIP ID"
+          },
+          "governmentID": {
+            "label": "Government ID",
+            "typeOfId": "Type of ID",
+            "issuedByAgency": "Issued by Agency",
+            "issuedValue": "Issued Value",
+            "expiryDate": "Expiry Date",
+            "addGovernmentId": "ADD GOVERNMENT ID"
+          },
+          "binaryGender": {
+            "label": "Binary Gender",
+            "binaryGender": "Binary Gender"
+          },
+          "taxID": {
+            "label": "Tax ID",
+            "taxIdType": "Tax ID Type",
+            "taxIdValue": "Tax ID Value",
+            "taxIssuing": "Tax ID Issuing Agency",
+            "expiryDateTax": "Expiry Date for Tax ID",
+            "addTaxId": "ADD TAX ID",
+            "notes": "Notes"
+          }
+        }
+      },
+      "thirdPage": {
+        "label": "Banking Information",
+        "company": "Company",
+        "paymentTypeCode": "Payment type code",
+        "bankName": "Bank name",
+        "accountNumber": "Account number",
+        "accountType": "Account Type",
+        "routingNumber": "Routing number",
+        "transitNumber": "Transit number",
+        "IBAN": "IBAN",
+        "SWIFT": "SWIFT",
+        "active": "Active",
+        "add": "ADD BANK"
+      },
+      "fourthPage": {
+        "label": "Contact Details",
+        "section": {
+          "phone": {
+            "label": "Phone",
+            "addPhone": "ADD PHONE",
+            "phoneNumber": "Phone Number",
+            "phoneType": "Phone Type",
+            "checkbox": {
+              "primaryNumber": "Primary Number",
+              "allowSMS": "Allow SMS"
+            }
+          },
+          "email": {
+            "label": "Email",
+            "personalEmail": "Personal Email",
+            "checkbox": {
+              "generalCorrespondenceAllowed": "General Correspondance Allowed",
+              "primaryEmail": "Primary Email Address"
+            },
+            "addEmail": "ADD EMAIL"
+          },
+          "address": {
+            "label": "Address",
+            "address": "Residential Address",
+            "mailingAddress": "Mailing Address",
+            "notes": "Notes",
+            "addMailingAddress": "Add Mailing Address",
+            "inputLabel": {
+              "streetNameAndNumber": "Street Name And Number",
+              "city": "City",
+              "state": "State",
+              "country": "Country"
+            },
+            "chechbox": {
+              "sameMailingAddress": "Same Mailing Address"
+            },
+            "stateProvince": "State/Province",
+            "country": "Country",
+            "postalCode": "Postal Code/Zip Code"
+          }
+        }
+      },
+      "fifthPage": {
+        "section": {
+          "emergencyProfile": {
+            "label": "Emergency Profile",
+            "relationship": "Relationship",
+            "pronoun": "Pronoun",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "preferredLanguage": "Preferred Language",
+            "proficiency": "Proficiency",
+            "add": "ADD EMERGENCY CONTACT",
+            "primary": "Primary Emergency Contact"
+          },
+          "phone": {
+            "label": "Phone",
+            "phoneNumber": "Phone Number",
+            "phoneType": "Phone Type",
+            "primary": "Primary",
+            "allowSMS": "Allow SMS",
+            "addPhone": "ADD PHONE"
+          },
+          "email": {
+            "label": "Email",
+            "emailAddress": "Email Address",
+            "primary": "Primary",
+            "addEmail": "ADD EMAIL",
+            "notes": "Notes",
+            "correspondence": "General Correspondence Allowed"
+          },
+          "checkbox": {
+            "addPhone": "ADD PHONE",
+            "addEmergencyContact": "ADD EMERGENCY CONTACT"
+          }
+        }
+      },
+      "sixthPage": {
+        "section": {
+          "employer": {
+            "label": "Employer",
+            "company": "Company",
+            "division": "Division",
+            "department": "Department",
+            "primaryWorkLocation": "Primary Work Location",
+            "primaryWorkLocationCode": "Primary Work Location Code",
+            "add": "ADD OTHER WORK LOCATION"
+          },
+          "role": {
+            "label": "Role",
+            "organizationRole": "Organization Role",
+            "organizationalRoleSubtype": "Organizational Role Subtype",
+            "jobTitle": "Job Title",
+            "employmentStatus": "Employment Status",
+            "statusClassification": "Status Classification"
+          },
+          "employmentDetails": {
+            "label": "Employment Details",
+            "jobHireDate": "Job Hire Date",
+            "firstDayOfWork": "First Day of Work",
+            "unionizedPosition": "Unionized Position",
+            "probationPeriod": "Probation Period",
+            "originalHireDate": "Original Hire Date",
+            "lastDay": "Last Day On Role",
+            "termination": "Terminated Date"
+          },
+          "workPhone": {
+            "label": "Work Phone",
+            "workPhone": "Work Phone",
+            "phoneType": "Phone Type",
+            "addPhone": "ADD PHONE",
+            "primary": "Primary Number",
+            "allowSMS": "Allow SMS"
+          },
+          "workEmail": {
+            "label": "Work Email",
+            "workEmail": "Work Email",
+            "add": "ADD EMAIL",
+            "primary": "Primary Email",
+            "generalCorrespondenceAllowed": "General Correspondance Allowed"
+          }
+        }
+      },
+      "seventhPage": {
+        "section": {
+          "associated": {
+            "label": "Associated",
+            "otherEmployeeAssociatedIDType": "Other Employee Associated ID Type",
+            "otherEmployeeAssociatedIDValue": "Other Employee Associated ID Value",
+            "expiryDate": "Expiry Date",
+            "addOtherAssociatedID": "Add Other Associated ID",
+            "language": "Language",
+            "addLanguage": "Add Language",
+            "CATSAJobLevel": "CATSA Job Level",
+            "isBilingual": "Is Bilingual",
+            "activeUnionSteward": "Active Union Steward",
+            "isActiveHSCommitteeMember": "Is Active H&S (Health and Safety) Committee Member",
+            "employmentNotes": "Employment Notes",
+            "notes": "Notes"
+          }
+        }
+      },
+      "eighthPage": {
+        "section": {
+          "seniorityDetails": {
+            "label": "Seniority Details",
+            "vacationDate": "Vacation Entitlement Date",
+            "workLocationDate": "Work Location Start Date",
+            "statusClassificationDate": "Status Classification Start Date",
+            "workLocationTiebreaker": "Work Location Tiebreaker Value",
+            "statusClassificationTiebreakerValue": "Status Classification Tiebreaker Value",
+            "seniorityDate": "Seniority Date",
+            "suppress": "Suppress date",
+            "notes": "Notes"
+          }
+        }
+      },
+      "ninthPage": {
+        "section": {
+          "createNewProfile": "CREATE PROFILE",
+          "parkingDetails": {
+            "label": "Parking Details",
+            "passNumber": "Pass Number",
+            "issuedPassType": "Issued Pass Type",
+            "reimbursementType": "Reimbursement Type",
+            "reimbursementAmount": "Reimbursement Amount",
+            "reimbursementTPercentage": "Reimbursement Percentage",
+            "reimbursementDollar": "Reimbursement Percentage",
+            "issuingAgency": "Issuing Agency"
+          },
+          "costDetails": {
+            "label": "Cost Details",
+            "monthlyRateWithTaxes": "Monthly Rate With Taxes",
+            "effectiveFrom": "Effective From",
+            "effectiveTo": "Effective To"
+          },
+          "vehicleDetails": {
+            "label": "Vehicle Details",
+            "vehicleMake": "Vehicle Make",
+            "vehicleMModel": "Vehicle Model",
+            "vehicleColor": "Vehicle Color",
+            "vehiclePlate": "Vehicle Plate"
+          }
+        }
+      },
+      "zodError": {
+        "isRequired": "Est Obligatoire"
+      },
+      "residencyAdress": {
+        "label": "Residency Address",
+        "address": "Address",
+        "postalCode": "Postal Code",
+        "stateProvince": "State/Province",
+        "country": "Country"
+      },
+      "contactInformation": {
+        "label": "Contact Information",
+        "phoneNumber": "Phone Number",
+        "phoneType": "Phone Type",
+        "email": "Email",
+        "secondaryEmail": "Secondary Email"
+      },
+      "employmentDetails": {
+        "label": "Employment Details",
+        "statusClassification": "Status Classification",
+        "nameOfService": "Name of Service",
+        "contractualFrom": "Contractual From",
+        "contractualTo": "Contractual To",
+        "helper": "Select",
+        "placeholder": "State",
+        "none": "None",
+        "companyNames": "Company Names",
+        "primaryWorkLocationName": "Primary Work Location Name",
+        "organisationalRole": "Organisational Role",
+        "employmentStatus": "Employment Status",
+        "division": "Division",
+        "primaryWorkLocationCode": "Primary Work Location Code",
+        "organisationalRoleSubtype": "Organisational Role Subtype",
+        "department": "Department",
+        "otherWorkLocations": "Other Work Locations",
+        "jobTitle": "Job Title"
+      },
+      "employmentDetailsDates": {
+        "jobHireDate": "Job Hire Date",
+        "originalHireDate": "Original Hire Date",
+        "firstDayOfWork": "First Day Of Work",
+        "probationDate": "Probation Date",
+        "title": "Employment Details Date"
+      },
+      "wagesDetails": {
+        "label": "Wages Details",
+        "wages": "Wages",
+        "levelRate": "Level Rate",
+        "dailyShiftHour": "Daily Shift Hours",
+        "employmentClassification": "Employment Classification"
+      },
+      "primaryContact": {
+        "label": "Primary Contact",
+        "relationship": "Relationship",
+        "firstName": "First Name",
+        "lastName": "Last Name"
+      },
+      "secondaryContact": {
+        "title": "Secondary Emergency Contact",
+        "label": "Secondary Contact",
+        "relationship": "Relationship",
+        "firstName": "First Name",
+        "lastName": "Last Name"
+      },
+      "phone": {
+        "phone": "Phone",
+        "phoneNumber": "Phone Number",
+        "addPhone": "ADD PHONE"
+      },
+      "email": {
+        "email": "Email",
+        "addEmail": "ADD EMAIL",
+        "cancelAdd": "CANCEL",
+        "addNewContact": "ADD NEW CONTACT"
+      }
+    },
+    "seniority": {
+      "template": {
+        "list": {
+          "title": "Seniority Groupings",
+          "result": "Results",
+          "Search": "Search",
+          "buttonEdit": "Create GROUPING",
+          "run": "SORT",
+          "export": "Export",
+          "downloading": "Downloading",
+          "noticeBox": "View notice",
+          "Yes": "Yes",
+          "No": "No",
+          "column": {
+            "name": "Grouping Name",
+            "company": "Company",
+            "division": "Division",
+            "Department": "Department",
+            "workLocation": "Work Location",
+            "reportDataType": "Report  Type",
+            "unionizedOnly": "Unionized Only",
+            "includeContactDeatils": "Include Contact Deatils",
+            "organizationalRole": "Organizational Role",
+            "organizationalRoleSubtype": "Organizational Role Subtype",
+            "statusClassification": "Status Classification",
+            "employmentStatus": "Employment Status",
+            "action": "Action"
+          },
+          "action": {
+            "edit": "Edit",
+            "Delete": "Delete"
+          }
+        },
+        "delete": {
+          "title": "Delete Grouping",
+          "message": "Are you sure you want to delete the grouping with {g}? This action cannot be undone."
+        },
+        "msgSelectTemplate": "You must select a template in the <strong>'TEMPLATES'</strong> Tab.",
+        "notice": {
+          "title": " Seniority Ranking Logic is based on these rules :",
+          "rules": [
+            "Employees with the earliest dates will have greater seniorityrank.",
+            "Where two or more employees share the same date their assigned tiebreaker value will be used.",
+            "Where two or more employees share the same date and tiebreaking value the employee with the lower employee number will be assigned the higher rank."
+          ]
+        },
+        "back": "Back"
+      },
+      "person": {
+        "employee_number": "Employee",
+        "LMS": "LMS",
+        "fullName": "Full Name",
+        "seniorityRank": "Seniority Rank",
+        "statusClassification": "Status Classification",
+        "workLocationDate": "WLS Date"
+      },
+      "tab": {
+        "create": "CREATE TEMPLATES",
+        "templates": "TEMPLATES",
+        "report": "REPORT"
+      },
+      "pagination": {
+        "showing": "Showing",
+        "to": "to",
+        "of": "of",
+        "results": "results"
+      },
+      "filter": {
+        "company": "Company",
+        "division": "Division",
+        "seniority_date_type": "Report Type",
+        "worklocation": "Location",
+        "All": "All"
+      },
+      "groupingForms": {
+        "success": "Grouping save successfully",
+        "successDelete": "Grouping deleted successfully",
+        "failed": "Failed to save Grouping",
+        "create": "Create",
+        "cancel": "Cancel",
+        "updateCancel": "Discard Changes",
+        "update": "Update",
+        "reset": "Reset Filters",
+        "label": "Set Grouping",
+        "labelCreate": "Create Grouping",
+        "labelUpdate": "Edit Grouping",
+        "field": {
+          "groupingName": {
+            "label": "Grouping Name *",
+            "RequireMessage": "Grouping Name is required"
+          },
+          "companyName": {
+            "label": "Company Name *",
+            "RequireMessage": "Grouping Name is required"
+          },
+          "companyDivision": {
+            "label": "Company Division *",
+            "RequireMessage": "Company Division is required"
+          },
+          "department": {
+            "label": "Department *",
+            "RequireMessage": "Department is required"
+          },
+          "workLocation": {
+            "label": "Work Location *",
+            "RequireMessage": "Work Location is required"
+          },
+          "organizationalRole": {
+            "label": "Organizational Role *",
+            "RequireMessage": "Organizational Role is required"
+          },
+          "organizationalRoleSubtypes": {
+            "label": "Organizational Role Subtypes *",
+            "RequireMessage": "Organizational Role Subtypes is required"
+          },
+          "statusClassification": {
+            "label": "Status Classification *",
+            "RequireMessage": "Status Classification is required"
+          },
+          "employmentStatus": {
+            "label": "Employment Status *",
+            "RequireMessage": "Employment Status is required"
+          },
+          "unionizedEmployeesOnly": {
+            "label": "Unionized Employees Only",
+            "RequireMessage": ""
+          },
+          "includeContactDetails": {
+            "label": "Include Contact Details",
+            "RequireMessage": ""
+          },
+          "reportDateType": {
+            "label": "Report Type *",
+            "RequireMessage": "Report Type is required"
+          }
+        },
+        "requiredMessage": "This field is required",
+        "messageExist": "A grouping with this name already exists. Please choose a different name.",
+        "messageCreate": "Grouping created successfully!",
+        "messageUpdate": "The grouping has been updated successfully!",
+        "messageDelete": "Are you sure you want to delete this grouping?"
+      }
+    },
+    "staffingTransaction": {
+      "title": "Staffing Transaction",
+      "activeStepLabel": [
+        "Transaction Purpose",
+        "Transaction Details",
+        "Summary"
+      ],
+      "button": {
+        "back": "BACK",
+        "next": "NEXT",
+        "submit": "SUBMIT",
+        "cancel": "CANCEL"
+      },
+      "transactionPurpose": {
+        "title": "Purpose",
+        "purposes": [
+          "Classification Change",
+          "Leave of absence",
+          "Return to Work",
+          "Resignation",
+          "Promotion",
+          "Termination",
+          "Salary Revision",
+          "Parking Change",
+
+          "Demotion",
+          "Transfer",
+
+          "Other"
+        ],
+        "field": {
+          "effectiveDate": {
+            "label": "Effective Date *",
+            "RequireMessage": "Effective Date is required"
+          },
+          "employmentRecord": {
+            "label": "Employement Record *",
+            "RequireMessage": "Employement Record is required"
+          },
+          "purpose": {
+            "label": "Purpose *",
+            "RequireMessage": "Purpose is required"
+          },
+          "reason": {
+            "label": "Reason",
+            "RequireMessage": "Reason is required"
+          }
+        }
+      },
+      "summary": {
+        "title": "Summary Details",
+        "purpose": "Purpose",
+        "effectiveDate": "Effective Date",
+        "employmentRecord": "Employement Record",
+        "division": "Division",
+        "workLocationName": "Work Location Name",
+        "workLocationCode": "Work Location Code",
+        "statusClassification": "Status Classification",
+        "employmentStatus": "Employment Status"
+      },
+      "transactionDetails": {
+        "leaveAbsence": {
+          "success": "Leave of absence save successfully",
+          "failed": "Failed to save Leave of absence",
+          "loa_type": {
+            "label": "Loa Type",
+            "requiredMessage": "Loa Type is required"
+          },
+          "date_from": {
+            "label": "Date From",
+            "requiredMessage": "Date From is required"
+          },
+          "date_to": {
+            "label": "Date To",
+            "requiredMessage": "Date To is required",
+            "ruleMessage": "Date To can't be before Date From"
+          },
+          "date_expected_return_to_work": {
+            "label": "Date expected RTW",
+            "requiredMessage": "Date expected is required",
+            "ruleMessage": "Date expected  can't be before Date From",
+            "ruleMessageWithDateTo": "Date expected  must be 7 days later than the  Date To"
+          },
+          "notes": {
+            "label": "Notes",
+            "requiredMessage": ""
+          },
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": "ROE code is require"
+          },
+          "code_description": {
+            "label": "Code Description",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": ""
+          },
+          "employment_status": {
+            "label": "Employment Status",
+            "requiredMessage": "Employment Status is required"
+          }
+        },
+        "resignation": {
+          "success": "Resignation save successfully",
+          "failed": "Failed to save Resignation",
+          "last_day_work_in_role": {
+            "label": "Last Day worked in Role",
+            "requiredMessage": "Last Day worked in Role is required"
+          },
+          "reason": {
+            "label": "Reason",
+            "requiredMessage": "Reason is required"
+          },
+          "other_reason_notes": {
+            "label": "Other Reason",
+            "requiredMessage": "Other Reason is required"
+          },
+          "rehire_flag": {
+            "label": "Would rehire",
+            "requiredMessage": "Would rehire is required"
+          },
+          "notes_for_rehire_selection": {
+            "label": "What is the reason for the rehire selection*",
+            "requiredMessage": "Reason for the rehire is required"
+          },
+          "additional_notes": {
+            "label": "Additional Notes",
+            "requiredMessage": ""
+          },
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": "ROE Code is required"
+          },
+          "code_description": {
+            "label": "Code Description",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": ""
+          },
+          "employment_status": {
+            "label": "Employment Status",
+            "requiredMessage": "Employment Status is required"
+          }
+        },
+        "termination": {
+          "success": "Termination save successfully",
+          "failed": "Failed to save Termination",
+          "last_day_work_in_role": {
+            "label": "Last Day worked in Role",
+            "requiredMessage": "Last Day worked in Role is required"
+          },
+          "reason": {
+            "label": "Reason",
+            "requiredMessage": "Reason is required"
+          },
+          "other_reason_notes": {
+            "label": "Other Reason",
+            "requiredMessage": "Other Reason is required"
+          },
+          "rehire_flag": {
+            "label": "Would rehire",
+            "requiredMessage": "Would rehire is required"
+          },
+          "notes_for_rehire_selection": {
+            "label": "What is the reason for the rehire selection*",
+            "requiredMessage": "Reason for the rehire is required"
+          },
+          "additional_notes": {
+            "label": "Additional Notes",
+            "requiredMessage": ""
+          },
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": "ROE Code is required"
+          },
+          "code_description": {
+            "label": "Code Description",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": ""
+          },
+          "employment_status": {
+            "label": "Employment Status",
+            "requiredMessage": "Employment Status is required"
+          }
+        },
+        "classificationChange": {
+          "newClassificationChange": "New Classification Change",
+          "currentPosition": "Current Position",
+          "missingPersonID": "Could not find employee ID",
+          "success": "Classification Change saved successfully",
+          "failed": "Failed to save Classification Change",
+          "department": {
+            "label": "Department",
+            "requiredMessage": "Department is required"
+          },
+          "vacationEntitlementDate": {
+            "label": "Vacation Entitlement Date",
+            "requiredMessage": "Vacation Entitlement Date is required",
+            "cannotBeInThePast": "Vacation Entitlement Date can not be in the past"
+          },
+          "jobLevel": {
+            "label": "Job Level",
+            "requiredMessage": "Job Level is required"
+          },
+          "employmentStatus": {
+            "label": "Employment Status",
+            "requiredMessage": "Vacation Entitlement Date is required"
+          },
+          "statusClassification": {
+            "label": "Status Classification",
+            "requiredMessage": "Status Classification is required"
+          },
+          "explanation": {
+            "label": "Explanation"
+          }
+        },
+
+        "other": {
+          "success": "Other save successfully",
+          "failed": "Failed to save other",
+          "roe_code": {
+            "label": "ROE Code",
+            "requiredMessage": "ROE Code is required"
+          },
+          "code_description": {
+            "label": "Code Description",
+            "requiredMessage": ""
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": "Explanation is required"
+          }
+        },
+        "parkingChange": {
+          "success": "Parking save successfully",
+          "failed": "Failed to save Parking",
+          "new": "New Parking Pass",
+          "parking_pass_type": {
+            "label": "Parking pass type",
+            "requiredMessage": "Parking pass type is required"
+          },
+          "reimbursement_type": {
+            "label": "Reimbursement Type",
+            "requiredMessage": "Reimbursement Type is required"
+          },
+          "reimbursement_value": {
+            "label": "Reimbursement Value",
+            "requiredMessage": "Reimbursement Value is required"
+          },
+          "parking_issuing_agency": {
+            "label": "Parking Issuing Agency",
+            "requiredMessage": "Parking Issuing Agency is required"
+          },
+          "pass_number": {
+            "label": "Pass Number",
+            "requiredMessage": "Pass Number is required"
+          },
+          "pass_monthly_cost": {
+            "label": "Pass Monthly Cost",
+            "requiredMessage": "Pass Monthly Cost is require"
+          },
+          "effective_from": {
+            "label": "Effective From",
+            "requiredMessage": "Effective From is required"
+          },
+          "effective_to": {
+            "label": "Effective To",
+            "requiredMessage": "Effective To is required"
+          },
+          "vehicle_make": {
+            "label": "Vehicle Make",
+            "requiredMessage": "Vehicle Make is required"
+          },
+          "vehicle_model": {
+            "label": "Vehicle Model",
+            "requiredMessage": "Vehicle Model is required"
+          },
+          "vehicle_color": {
+            "label": "Vehicle Color",
+            "requiredMessage": "Vehicle Color is required"
+          },
+          "vehicle_licence_plate": {
+            "label": "Vehicle Licence Plate",
+            "requiredMessage": "Vehicle Licence Plate is required"
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": "Explanation is required"
+          }
+        },
+
+        "mainPromotionDemotionTransfer": {
+          "newCompany": {
+            "label": "Company",
+            "requiredMessage": "Company is required"
+          },
+          "newDivision": {
+            "label": "Division",
+            "requiredMessage": "Division is required"
+          },
+          "newWorkLocationCode": {
+            "label": "Work Location Code",
+            "requiredMessage": "Location Code is required"
+          },
+          "newWorkLocationName": {
+            "label": "Work Location Name",
+            "requiredMessage": "Location Name is required"
+          },
+          "newDepartment": {
+            "label": "Department",
+            "requiredMessage": "Department is required"
+          },
+          "newOrganizationalRole": {
+            "label": "Organisation Role",
+            "requiredMessage": "Organisation Role is required"
+          },
+          "newOrganizationalRoleSubtype": {
+            "label": "Organisation Role Subtype",
+            "requiredMessage": "Organisation Role Subtype Role is required"
+          },
+          "newJobTitle": {
+            "label": "Job Title",
+            "requiredMessage": "Job Title is required"
+          },
+          "newCatsaJobLevel": {
+            "label": "Job Level",
+            "requiredMessage": "Job Level is required"
+          },
+          "newEmploymentClassification": {
+            "label": "Employment Classification",
+            "requiredMessage": "Employment Classification is required"
+          },
+          "employmentStatus": {
+            "label": "Employment Status",
+            "requiredMessage": "Employment Status is required"
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": "Explanation is required"
+          },
+          "isNewPositionUnionized": {
+            "label": "Position Unionized",
+            "requiredMessage": "Position Unionized is required"
+          },
+          "lastDayWorkedInRole": {
+            "label": "Last Day Worked In Role",
+            "requiredMessage": "Last Day Worked In Role is required"
+          },
+          "firstDayWorkedInRole": {
+            "label": "First Day Worked In Role",
+            "requiredMessage": "First Day Worked In Role is required"
+          }
+        },
+        "promotion": {
+          "title": "New Promotion",
+          "success": "Promotion save successfully",
+          "failed": "Failed to save Promotion"
+        },
+        "demotion": {
+          "title": "New Demotion",
+          "success": "Demotion save successfully",
+          "failed": "Failed to save Demotion"
+        },
+        "transfer": {
+          "title": "New Transfer",
+          "success": "Transfer save successfully",
+          "failed": "Failed to save Transfer",
+          "transferType": {
+            "label": "Transfer Of",
+            "requiredMessage": "Transfer Of is required"
+          }
+        },
+        "salaryRevision": {
+          "success": "Salary Revision save successfully",
+          "failed": "Failed to save Salary Revision",
+          "current_catsa_job_level": {
+            "label": "Current Job Level",
+            "requiredMessage": "New Job Level is required"
+          },
+          "new_catsa_job_level": {
+            "label": "New Job Level",
+            "requiredMessage": "New Job Level is required"
+          },
+          "explanation": {
+            "label": "Explanation",
+            "requiredMessage": "Explanation is required"
+          }
+        }
+      },
+      "transactionSummary": {
+        "leaveAbsence": {
+          "example": "leaveAbsenceExample"
+        },
+        "resignation": {
+          "example": "resignationExample"
+        },
+        "returnToWork": {
+          "example": "returnToWork"
+        },
+        "promotion": {
+          "example": "promotion"
+        },
+        "termination": {
+          "example": "terminationExample"
+        },
+        "salaryRevision": {
+          "example": "salaryRevisionExample"
+        },
+        "parkingChange": {
+          "example": "parkingChangeExample"
+        },
+        "demotion": {
+          "example": "demotionExample"
+        },
+        "transfer": {
+          "example": "transferExample"
+        },
+        "other": {
+          "example": "otherExample"
+        }
+      }
+    }
+  }
+}
